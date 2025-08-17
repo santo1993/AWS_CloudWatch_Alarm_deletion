@@ -1,4 +1,2 @@
-AccountName,RegionName,InstanceID,AlarmName
-baxaws-dev-cml-account,eu-central-1,i-06587d738d2bb169c,awsec2-i-06587d738d2bb169c-High-Status-Check-Failed-System-
-,,,
-,,a,
+AccountName,RegionName,AlarmName
+baxaws-dev-cml-account,eu-central-1,awsec2-i-06587d738d2bb169c-High-Status-Check-Failed-System
